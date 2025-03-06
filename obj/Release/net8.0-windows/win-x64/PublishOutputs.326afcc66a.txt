@@ -1,0 +1,7 @@
+D:\workpace\SideProject\Software\C#\PasswordGenerator\publish\PasswordGenerator.pdb
+D:\workpace\SideProject\Software\C#\PasswordGenerator\publish\D3DCompiler_47_cor3.dll
+D:\workpace\SideProject\Software\C#\PasswordGenerator\publish\PenImc_cor3.dll
+D:\workpace\SideProject\Software\C#\PasswordGenerator\publish\PresentationNative_cor3.dll
+D:\workpace\SideProject\Software\C#\PasswordGenerator\publish\vcruntime140_cor3.dll
+D:\workpace\SideProject\Software\C#\PasswordGenerator\publish\wpfgfx_cor3.dll
+D:\workpace\SideProject\Software\C#\PasswordGenerator\publish\PasswordGenerator.exe
